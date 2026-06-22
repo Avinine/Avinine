@@ -1,24 +1,24 @@
-<h1 align="center">Avin</h1><p align="center">
-Building things with code, design and curiosity.
-</p><br>Focus
-├─ Web Development
-│  ├─ Frontend
-│  ├─ Backend
-│  └─ Full-Stack
-├─ Cybersecurity
-├─ Game Development
-└─ Digital Design
+<h1 align="center">Hi, I'm Avin 👋</h1><p align="center">
+Creative developer in progress.
+</p><br>Currently learning and building in
 
-<br><p align="center">
+- 🌐 Web Development (Frontend, Backend, Full-Stack)
+- 🔐 Cybersecurity
+- 🎮 Game Development
+- 🎨 Design & Digital Art
+
+I enjoy combining technology, creativity, and interactive experiences.
+
+<br>Connect
+
+<p align="left">
   <a href="mailto:avinineramz@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail" width="20" />
+    <img src="https://cdn.simpleicons.org/gmail" width="22" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/avin0ne">
-    <img src="https://cdn.simpleicons.org/telegram" width="20" />
+  &nbsp;&nbsp;  <a href="https://t.me/avin0ne">
+    <img src="https://cdn.simpleicons.org/telegram" width="22" />
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/etblac">
-    <img src="https://cdn.simpleicons.org/instagram" width="20" />
+  &nbsp;&nbsp;  <a href="https://instagram.com/etblac">
+    <img src="https://cdn.simpleicons.org/instagram" width="22" />
   </a>
 </p>
