@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Avin 👋</h1><p align="center">
+<h1 align="center">Hey, It's Avin 👋</h1><p align="center">
 Creative developer in progress.
 </p><br>Currently learning and building in
 
