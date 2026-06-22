@@ -7,7 +7,7 @@ Creative developer in progress.
 - 🎮 Game Development
 - 🎨 Design & Digital Art
 
-I enjoy combining technology, creativity, and interactive experiences.
+I like combining technology, creativity, and interactive experiences.
 
 <br>Connect
 
