@@ -1,9 +1,24 @@
-# Avin-Ramz
+<h1 align="center">Hi, I'm Avin 👋</h1><p align="center">
+Creative developer in progress.
+</p><br>Currently learning and building in
 
-<a href="https://t.me/avin0ne">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white" />
-</a>
+- 🌐 Web Development (Frontend, Backend, Full-Stack)
+- 🔐 Cybersecurity
+- 🎮 Game Development
+- 🎨 Design & Digital Art
 
-<a href="https://instagram.com/etblac">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-</a>
+I enjoy combining technology, creativity, and interactive experiences.
+
+<br>Connect
+
+<p align="left">
+  <a href="mailto:avinineramz@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail" width="22" />
+  </a>
+  &nbsp;&nbsp;  <a href="https://t.me/avin0ne">
+    <img src="https://cdn.simpleicons.org/telegram" width="22" />
+  </a>
+  &nbsp;&nbsp;  <a href="https://instagram.com/etblac">
+    <img src="https://cdn.simpleicons.org/instagram" width="22" />
+  </a>
+</p>
