@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:151515&height=180&section=header&text=Hey,%20It's%20Avin%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/typing.gif" width="70" alt="Digital"/>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:151515&height=180&section=header&text=Hey,%20It's%20Avin&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <strong>Creative developer in progress.</strong>
@@ -10,131 +14,103 @@
 
 <br>
 
-<h2>✦ Currently learning and building in</h2>
+<h2>Currently learning and building in</h2>
 
 <br>
 
 <div align="center">
 
-<table width="96%" style="border-radius:18px; overflow:hidden;">
-  <tr>
-    <td align="center" colspan="2">
+<table width="94%" cellpadding="18" cellspacing="0" style="border-radius:24px; overflow:hidden; background:linear-gradient(135deg,#1b1a20,#211d29,#1b1a20); border:1px solid #302d35; box-shadow:0 0 18px rgba(170,160,180,0.08);">
+<tr>
+<td align="center">
 
-  <br>
+<br>
 
-  <h3>🌐 Web Development (Frontend, Backend, Full-Stack)</h3>
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/48/9b7ac4/code.png" width="24">
+&nbsp; Web Development (Frontend, Backend, Full-Stack)
+</h3>
 
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=html" width="34"/><br><sub>HTML</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=css" width="34"/><br><sub>CSS</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=js" width="34"/><br><sub>JavaScript</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=ts" width="34"/><br><sub>TypeScript</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="34"/><br><sub>Python</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=fastapi" width="34"/><br><sub>FastAPI</sub></td>
-    </tr>
-  </table>
+<p>
+  <img src="https://img.shields.io/badge/HTML-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/CSS-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/JavaScript-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/TypeScript-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/Python-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/FastAPI-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+</p>
 
-  <br>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/MySQL-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/Git-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/GitHub-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+</p>
 
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="34"/><br><sub>Node.js</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="34"/><br><sub>PostgreSQL</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="34"/><br><sub>MySQL</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="34"/><br><sub>Git</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=github" width="34"/><br><sub>GitHub</sub></td>
-    </tr>
-  </table>
+<hr width="70%" color="#332f39">
 
-  <br>
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/48/9b7ac4/lock.png" width="24">
+&nbsp; Cybersecurity
+</h3>
 
-</td>
-```
+<p>
+  <img src="https://img.shields.io/badge/Linux-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/Bash-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/Kali-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/Python-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/Git-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+</p>
 
-  </tr>
+<hr width="70%" color="#332f39">
 
-  <tr>
-    <td align="center" width="50%">
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/48/9b7ac4/controller.png" width="24">
+&nbsp; Game Development
+</h3>
 
-  <h3>🔐 Cybersecurity</h3>
+<p>
+  <img src="https://img.shields.io/badge/Unity-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/C%23-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/Blender-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/Unreal-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+</p>
 
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="34"/><br><sub>Linux</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="34"/><br><sub>Bash</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=kali" width="34"/><br><sub>Kali</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=python" width="34"/><br><sub>Python</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=git" width="34"/><br><sub>Git</sub></td>
-    </tr>
-  </table>
+<hr width="70%" color="#332f39">
 
-  <br>
+<h3>
+<img src="https://img.icons8.com/fluency-systems-filled/48/9b7ac4/design.png" width="24">
+&nbsp; Design & Digital Art
+</h3>
 
-</td>
+<p>
+  <img src="https://img.shields.io/badge/Figma-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/Photoshop-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/Illustrator-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+  <img src="https://img.shields.io/badge/Blender-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
+</p>
 
-<td align="center" width="50%">
-
-  <h3>🎮 Game Development</h3>
-
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=unity" width="36"/><br><sub>Unity</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=cs" width="36"/><br><sub>C#</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=cpp" width="36"/><br><sub>C++</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=blender" width="36"/><br><sub>Blender</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=unreal" width="36"/><br><sub>Unreal</sub></td>
-    </tr>
-  </table>
-
-  <br>
-
-</td>
-
-  </tr>
-
-  <tr>
-    <td align="center" width="50%">
-
-  <h3>🎨 Design & Digital Art</h3>
-
-  <table>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="36"/><br><sub>Figma</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=photoshop" width="36"/><br><sub>Photoshop</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=illustrator" width="36"/><br><sub>Illustrator</sub></td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=blender" width="36"/><br><sub>Blender</sub></td>
-    </tr>
-  </table>
-
-  <br>
+<br>
 
 </td>
-
-<td align="center" width="50%">
-
-  <h3>‎</h3>
-
-  <br>
-
-</td>
-
-  </tr>
+</tr>
 </table>
 
 </div>
 
 <br>
 
-<h2>✦ Connect</h2>
+<h2>Connect</h2>
 
 <p>
   <a href="https://www.linkedin.com/in/avin-ramezani-189741431">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="44"/>
+    <img src="https://img.shields.io/badge/LinkedIn-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:avinineramz@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="44"/>
+    <img src="https://img.shields.io/badge/Email-25212B?style=flat-square&labelColor=25212B&color=8B6FAE"/>
   </a>
 </p>
 
