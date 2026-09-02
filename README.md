@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:151515&height=180&section=header&text=Hey,%20It's%20Avin&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:100018,100:2A1740&height=180&section=header&text=Hey,%20It's%20Avin&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <strong>Creative developer in progress.</strong>
@@ -118,6 +118,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:151515,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A1740,100:100018&height=100&section=footer" width="100%"/>
 
 </div>
